@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hamedaljasem
 - 👀 I’m interested in both medical technology (devices, diagnostics and imaging) and finance
-- 🌱 I’m currently learning the basics of data analysis and machine learning
+- 🌱 I’m currently learning about full stack data analysis and machine learning
 - 💞️ I’m looking to collaborate on machine learning web apps
 - 📫 How to reach me: e-mail hamed.bujasem@gmail.com
 
